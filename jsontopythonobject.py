@@ -26,3 +26,4 @@ my_json_string = """{
 }
 """
 to_python = json.loads(my_json_string)
+#to_python['blog'] ==> use this to print in python cmd
